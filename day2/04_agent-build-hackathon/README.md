@@ -18,19 +18,7 @@ How to design and build a multi-step agentic system under time pressure, the way
 
 ## How to run
 
-### Option 1 — Google Colab (easiest, no setup)
-
-1. Go to [colab.research.google.com](https://colab.research.google.com).
-2. Click **File → Upload notebook** and select `Agent_Engineering_Challenge.ipynb`.
-3. In the setup cell, paste your Anthropic API key between the quotes:
-   ```python
-   ANTHROPIC_API_KEY = "paste-your-key-here"
-   ```
-4. Click **Runtime → Run all**.
-
----
-
-### Option 2 — GitHub Codespaces (no local install needed)
+### Option 1 — GitHub Codespaces (no local install needed)
 
 1. Go to the repo on GitHub and click the green **Code** button.
 2. Select the **Codespaces** tab and click **Create codespace on main**.
@@ -42,7 +30,7 @@ How to design and build a multi-step agentic system under time pressure, the way
 
 ---
 
-### Option 3 — VS Code locally
+### Option 2 — VS Code locally
 
 1. Open VS Code and go to **File → Open Folder**, select this folder.
 2. Install the **Python** and **Jupyter** extensions if prompted.
@@ -55,7 +43,7 @@ How to design and build a multi-step agentic system under time pressure, the way
 
 ---
 
-### Option 4 — Jupyter locally
+### Option 3 — Jupyter locally
 
 1. Install Jupyter if needed: `pip install notebook`
 2. Open a terminal, navigate to this folder, and set your API key:
