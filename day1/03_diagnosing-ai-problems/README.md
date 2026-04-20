@@ -4,7 +4,7 @@
 You've received an email from Priya, a client whose AI-powered customer support system is misbehaving. Using the agent artifacts in this folder, your job is to diagnose what went wrong — without running any code.
 
 ## Main learning
-How to read and interpret the components of an agentic system: system prompts, tool definitions, and execution traces. You'll practice the real-world AAI skill of diagnosing AI failures from artifacts alone, the same way you'd approach a client escalation.
+How to read and interpret the components of an agentic system: system prompts, tool definitions, and execution traces. You'll practice the real-world skill of diagnosing AI failures from artifacts alone, the same way you'd approach a client escalation.
 
 ## What's in this folder
 
