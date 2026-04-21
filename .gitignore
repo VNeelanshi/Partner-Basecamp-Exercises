@@ -1,0 +1,24 @@
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+
+# Environments
+.env
+.env.*
+venv/
+.venv/
+env/
+
+# Claude Code (local-only settings)
+**/.claude/settings.local.json
+
+# OS
+.DS_Store
+Thumbs.db
